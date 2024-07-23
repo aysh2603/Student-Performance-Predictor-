@@ -1,4 +1,3 @@
-# for deployment we create a copy of app.py as application.py
 from flask import Flask, request, render_template
 import numpy as np
 import pandas as pd
